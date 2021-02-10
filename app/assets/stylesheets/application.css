@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .corpus {
+     background: url("https://cdn.discordapp.com/attachments/318828901931548682/809064638905057300/coffee-791439_1920.jpg");
+     background-repeat: no-repeat;
+        background-size: auto;
+        height: 800px;
+        
+        margin: auto;
+ }
+
+ p{
+    color: rgb(0, 119, 255);
+    margin: 1%;
+ }
+
+ h1 {
+     text-align: center;
+     color: rgb(70, 19, 153);
+     margin: 1%;
+ }
